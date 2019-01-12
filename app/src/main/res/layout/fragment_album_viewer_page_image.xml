@@ -10,8 +10,7 @@
     android:id="@+id/albumviewer_image_flickdismisslayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:animateLayoutChanges="true"
-    android:fitsSystemWindows="true">
+    android:animateLayoutChanges="true">
 
     <me.saket.dank.widgets.ZoomableGestureImageView
       android:id="@+id/albumviewer_image_imageview"
